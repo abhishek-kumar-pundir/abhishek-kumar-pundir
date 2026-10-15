@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=34&duration=2400&pause=5000&color=9294D6&center=true&vCenter=true&width=480&height=52&lines=Abhishek+Kumar+Pundir"
       alt="Abhishek Kumar Pundir"
     />
   </a>
-</h1>
+</p>
 
 <p>
   <strong>Full-Stack Developer &bull; Systems & Web Audio &bull; npm Author</strong>
@@ -40,7 +40,9 @@
 
 </div>
 
-<h2 align="center">👋 About Me</h2>
+<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
+
+<h3 align="center">👋 About Me</h3>
 
 - 🎓 CSE student passionate about learning and building things that matter.
 - 🚀 Always exploring new ideas and pushing beyond what I already know.
@@ -49,48 +51,48 @@
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="63" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="63" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="63" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="63" alt="Java" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" height="63" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="63" alt="C++" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="63" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="63" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="63" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="63" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="63" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="63" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="63" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="63" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="63" alt="SQLite" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="63" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" height="63" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" height="63" alt="Three.js" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="63" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="63" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="63" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="63" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="63" alt="pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" height="63" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="63" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="63" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Groq-F54D27?style=flat-square&logo=groq&logoColor=white" height="63" alt="Groq" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="63" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" height="63" alt="Zustand" />
-<img src="https://img.shields.io/badge/Chrome_Extensions_%2F_Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" height="63" alt="Chrome Extensions / Manifest V3" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="63" alt="Git" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="63" alt="npm" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="63" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="63" alt="Render" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="40" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="C++" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="40" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" alt="FastAPI" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="40" alt="SQLite" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="40" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="40" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="Three.js" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Groq-F54D27?style=for-the-badge&logo=groq&logoColor=white" height="40" alt="Groq" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" height="40" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" height="40" alt="Zustand" />
+<img src="https://img.shields.io/badge/Chrome_Extensions_%2F_Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Chrome Extensions / Manifest V3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="40" alt="Render" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <table width="100%">
 <tr>
@@ -187,7 +189,7 @@ Real-time private web app: live Socket.IO chat, synchronized music with playback
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
 
@@ -237,7 +239,7 @@ Real-time private web app: live Socket.IO chat, synchronized music with playback
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h3 align="center">🤝 Let's Connect</h3>
 
 <div align="center">
 
