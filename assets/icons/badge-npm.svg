@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" viewBox="0 0 136 28">
+  <rect width="136" height="28" rx="6" fill="#1C1F24" stroke="#2D333B" stroke-width="1"/>
+  <svg x="8" y="6" width="16" height="16" viewBox="0 0 16 16" fill="#CB3837">
+    <path d="M0 0v16h16V0H0zm13.146 13.146H8.293V5.427H5.707v7.719H2.854V2.854h10.292v10.292z"/>
+  </svg>
+  <text x="32" y="18" fill="#F0EEE8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">react-fastload</text>
+</svg>

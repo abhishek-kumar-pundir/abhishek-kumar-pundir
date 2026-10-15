@@ -3,25 +3,31 @@
 # Abhishek Kumar Pundir
 
 <p>
-  <strong>Full-Stack Developer &bull; Systems & Web Audio &bull; npm Author</strong><br/>
-  <em>"I write code. The bugs write themselves."</em>
+  <strong>Full-Stack Developer &bull; Systems & Web Audio &bull; npm Author</strong>
 </p>
 
-<p>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1100&color=79A879&center=true&vCenter=true&width=560&lines=full-stack+developer+%26+npm+library+author;building%3A+phishing+AI+%C2%B7+browser+audio+%C2%B7+music+DSP;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Node.js+%C2%B7+FastAPI;I+write+code.+The+bugs+write+themselves."
+    alt="Typing SVG"
+  />
+</a>
+
+<p style="margin-top: 14px;">
   <a href="https://github.com/abhishek-kumar-pundir">
-    <img src="https://img.shields.io/badge/GitHub-abhishek--kumar--pundir-17191C?style=flat-square&logo=github&logoColor=F0EEE8&labelColor=23272D" alt="GitHub"/>
+    <img src="./assets/icons/badge-github.svg" height="28" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://in.linkedin.com/in/abhishek-kumar-pundir">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar%20Pundir-17191C?style=flat-square&logo=linkedin&logoColor=79A879&labelColor=23272D" alt="LinkedIn"/>
+    <img src="./assets/icons/badge-linkedin.svg" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://abhishek-tg.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-abhishek--tg.vercel.app-17191C?style=flat-square&logo=vercel&logoColor=E4A16A&labelColor=23272D" alt="Portfolio"/>
+    <img src="./assets/icons/badge-portfolio.svg" height="28" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://www.npmjs.com/package/react-fastload">
-    <img src="https://img.shields.io/npm/v/react-fastload?style=flat-square&logo=npm&label=react-fastload&labelColor=23272D&color=79A879" alt="npm: react-fastload"/>
+    <img src="./assets/icons/badge-npm.svg" height="28" alt="npm: react-fastload"/>
   </a>
 </p>
 
@@ -82,7 +88,7 @@ I build developer tools, browser extensions, and full-stack systems — the kind
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Phish360
+### <img src="./assets/icons/phish360_icon.png" width="20" height="20" alt="Phish360 icon" valign="middle"/> Phish360
 
 Multimodal phishing detector that fuses URL lexical patterns, DOM structure, page text, and a live screenshot through a late-fusion ML ensemble — four independent signals, one verdict, zero blacklist dependency.
 
@@ -99,7 +105,7 @@ Multimodal phishing detector that fuses URL lexical patterns, DOM structure, pag
 </td>
 <td width="50%" valign="top">
 
-### ⚡ ReactFastLoad
+### <img src="./assets/icons/npm.svg" width="20" height="20" alt="ReactFastLoad icon" valign="middle"/> ReactFastLoad
 
 npm library that controls *when* React resources load, not just whether they do. Five priority levels, shared `IntersectionObserver` viewport preloading, concurrency cap, and connection-aware back-pressure — no fetch interception.
 
@@ -118,7 +124,7 @@ npm library that controls *when* React resources load, not just whether they do.
 <tr>
 <td width="50%" valign="top">
 
-### 🎚️ Hush
+### <img src="./assets/icons/hush_icon.png" width="20" height="20" alt="Hush icon" valign="middle"/> Hush
 
 Chrome extension with per-tab volume sliders and intelligent audio conflict resolution. Intercepts both HTML5 media and Web Audio API contexts. Organizes tabs into Chrome Tab Groups. Four acoustic scenes, drag-and-drop reclassification.
 
@@ -136,7 +142,7 @@ Chrome extension with per-tab volume sliders and intelligent audio conflict reso
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Musify
+### <img src="./assets/icons/musify_logo.png" width="20" height="20" alt="Musify logo" valign="middle"/> Musify
 
 Music platform with a real server-side DSP pipeline: RMS energy, FFT spectral centroid, onset-autocorrelation tempo, over a single 8 kHz PCM pass. Cosine-similarity recommendations, Markov-graph prefetching. ReactFastLoad cut initial bundle ~29.6%.
 
@@ -227,12 +233,20 @@ Real-time private web app: live Socket.IO chat, synchronized music with playback
 
 <div align="center">
 
-<a href="https://github.com/abhishek-kumar-pundir"><img src="https://img.shields.io/badge/GitHub-17191C?style=for-the-badge&logo=github&logoColor=F0EEE8" alt="GitHub"/></a>
-&nbsp;
-<a href="https://in.linkedin.com/in/abhishek-kumar-pundir"><img src="https://img.shields.io/badge/LinkedIn-17191C?style=for-the-badge&logo=linkedin&logoColor=79A879" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://abhishek-tg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-17191C?style=for-the-badge&logo=vercel&logoColor=E4A16A" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://www.npmjs.com/package/react-fastload"><img src="https://img.shields.io/badge/npm-17191C?style=for-the-badge&logo=npm&logoColor=79A879" alt="npm"/></a>
+<a href="https://github.com/abhishek-kumar-pundir">
+  <img src="./assets/icons/badge-github.svg" height="32" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/abhishek-kumar-pundir">
+  <img src="./assets/icons/badge-linkedin.svg" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://abhishek-tg.vercel.app/">
+  <img src="./assets/icons/badge-portfolio.svg" height="32" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.npmjs.com/package/react-fastload">
+  <img src="./assets/icons/badge-npm.svg" height="32" alt="npm: react-fastload"/>
+</a>
 
 </div>
