@@ -44,7 +44,10 @@
 
 ### About Me
 
-I build developer tools, browser extensions, and full-stack systems — the kind of software that coordinates how resources load, detects phishing pages by fusing four ML signals, or quietly decides which browser tab should stop yelling. Mostly TypeScript and Python, occasionally regret. If it's a hard problem at the intersection of performance and AI, I'm already thinking about it.
+- 🎓 CSE student passionate about learning and building things that matter.
+- 🚀 Always exploring new ideas and pushing beyond what I already know.
+- 🧠 Curious by nature, driven by challenges, and obsessed with continuous improvement.
+- 🌱 Focused on growing as an engineer and becoming better every day.
 
 ### Tech Stack
 
