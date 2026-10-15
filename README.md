@@ -2,25 +2,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=38&duration=2400&repeat=false&color=79A879&center=true&vCenter=true&width=560&height=60&lines=Abhishek+Kumar+Pundir"
-      alt="Abhishek Kumar Pundir"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=40&duration=2400&repeat=false&color=79B47E&center=true&vCenter=true&width=640&height=64&lines=Abhishek+Kumar+Pundir" alt="Abhishek Kumar Pundir" />
   </a>
 </p>
 
 <p>
-  <strong>Full-Stack Developer &bull; Systems & Web Audio &bull; npm Author</strong>
+  <strong>Software, developer tools, browser extensions, and systems</strong>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1100&color=79A879&center=true&vCenter=true&width=560&lines=full-stack+developer+%26+npm+library+author;building%3A+phishing+AI+%C2%B7+browser+audio+%C2%B7+music+DSP;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Node.js+%C2%B7+FastAPI;I+write+code.+The+bugs+write+themselves."
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=79B47E&center=true&vCenter=true&width=600&height=28&lines=building%3A+phishing+detection+%C2%B7+browser+audio+%C2%B7+music+DSP;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Node.js+%C2%B7+FastAPI" alt="Currently building: phishing detection, browser audio, music DSP" />
 </a>
 
-<p style="margin-top: 14px;">
+<p>
   <a href="https://github.com/abhishek-kumar-pundir">
     <img src="./assets/icons/badge-github.svg" height="28" alt="GitHub"/>
   </a>
@@ -40,23 +34,21 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Pixel-art desert landscape divider"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=320&height=50&lines=%F0%9F%91%8B+About+Me" alt="👋 About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79B47E&center=true&vCenter=true&width=320&height=50&lines=%F0%9F%91%8B+About+Me" alt="👋 About Me" />
 </p>
 
 <p align="center">
-🎓 CSE student passionate about learning and building things that matter.<br/>
-🚀 Always exploring new ideas and pushing beyond what I already know.<br/>
-🧠 Curious by nature, driven by challenges, and obsessed with continuous improvement.<br/>
-🌱 Focused on growing as an engineer and becoming better every day.
+I'm a CSE student who likes understanding software beneath the surface: how a browser schedules resources, how audio moves through a graph of nodes, how separate signals combine into one decision.<br/>
+I build tools and systems that aim to be useful, efficient, and reliable, and I try to back what I say about them with measurements.
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=360&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="🛠️ Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79B47E&center=true&vCenter=true&width=360&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="🛠️ Tech Stack" />
 </p>
 
 <p align="center">
@@ -96,45 +88,48 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="40" alt="Render" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9A%80+Featured+Projects" alt="🚀 Featured Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79B47E&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9A%80+Featured+Projects" alt="🚀 Featured Projects" />
 </p>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/phish360_icon.png" width="20" height="20" alt="Phish360 icon" valign="middle"/> Phish360
+### <img src="./assets/icons/npm.svg" width="20" height="20" alt="ReactFastLoad icon" valign="middle"/> ReactFastLoad
 
-Multimodal phishing detector that fuses URL lexical patterns, DOM structure, page text, and a live screenshot through a late-fusion ML ensemble — four independent signals, one verdict, zero blacklist dependency.
+React resource scheduler for priority-based loading, concurrency control, and viewport-aware resource orchestration. Five priority levels, a shared `IntersectionObserver` for viewport preloading, a concurrency cap, and connection-aware back-pressure, with no fetch interception.
+
+**Package size** (not a speed measurement): 41.06 KB ESM · 41.89 KB CommonJS · 100.3 KB npm tarball.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
+  <img src="https://img.shields.io/badge/React-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6&logo=typescript&logoColor=white?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/ESM_+_CJS-23272D&logo=javascript&logoColor=F0EEE8?style=flat-square" alt="ESM + CJS" />
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79A879&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/Phishing)
+[![npm](https://img.shields.io/npm/v/react-fastload?style=flat-square&logo=npm&labelColor=23272D&color=CB3837)](https://www.npmjs.com/package/react-fastload)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/react-fastload)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/npm.svg" width="20" height="20" alt="ReactFastLoad icon" valign="middle"/> ReactFastLoad
+### <img src="./assets/icons/musify_logo.png" width="20" height="20" alt="Musify logo" valign="middle"/> Musify
 
-npm library that controls *when* React resources load, not just whether they do. Five priority levels, shared `IntersectionObserver` viewport preloading, concurrency cap, and connection-aware back-pressure — no fetch interception.
+MERN music platform with server-side audio processing (RMS energy, FFT spectral centroid, onset-autocorrelation tempo), waveform visualization, cosine-similarity recommendations, and transition-aware prefetching.
+
+**29.13% less initial gzip JavaScript transfer** with ReactFastLoad (142.26 KB → 100.82 KB) in a five-trial local Chrome benchmark. Cold-cache FCP and LCP were slightly slower (+20 ms, +36 ms). Local results, not production users.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/ESM_+_CJS-23272D?style=flat-square&logo=javascript&logoColor=F0EEE8" alt="ESM + CJS" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React 19" />
+  <img src="https://img.shields.io/badge/Express-000000&logo=express&logoColor=white?style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248&logo=mongodb&logoColor=white?style=flat-square" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/ffmpeg-007808&logo=ffmpeg&logoColor=white?style=flat-square" alt="ffmpeg" />
 </p>
 
-[![npm](https://img.shields.io/npm/v/react-fastload?style=flat-square&logo=npm&labelColor=23272D&color=CB3837)](https://www.npmjs.com/package/react-fastload)
-[![Repo](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79A879&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/react-fastload)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/Abhishe295/Musfiy)
 
 </td>
 </tr>
@@ -142,133 +137,83 @@ npm library that controls *when* React resources load, not just whether they do.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/hush_icon.png" width="20" height="20" alt="Hush icon" valign="middle"/> Hush
+### <img src="./assets/icons/phish360_icon.png" width="20" height="20" alt="Phish360 icon" valign="middle"/> Phish360
 
-Chrome extension with per-tab volume sliders and intelligent audio conflict resolution. Intercepts both HTML5 media and Web Audio API contexts. Organizes tabs into Chrome Tab Groups. Four acoustic scenes, drag-and-drop reclassification.
+Multimodal phishing detection combining URL characteristics, webpage structure, webpage text, and visual signals through a late-fusion ensemble, with an evaluation pipeline for classification performance.
 
-> Chrome Web Store: **Pending Review** — load unpacked for local use.
+Dataset audit: 10,748 sample directories. This is the size of the raw collection, not a validated training-set size, and no model results are claimed here.
 
 <p>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
+  <img src="https://img.shields.io/badge/React-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6&logo=typescript&logoColor=white?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688&logo=fastapi&logoColor=white?style=flat-square" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C&logo=pytorch&logoColor=white?style=flat-square" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4&logo=googlechrome&logoColor=white?style=flat-square" alt="Chrome MV3" />
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79A879&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/Hush)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/Phishing)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/musify_logo.png" width="20" height="20" alt="Musify logo" valign="middle"/> Musify
+### <img src="./assets/icons/hush_icon.png" width="20" height="20" alt="Hush icon" valign="middle"/> Hush
 
-Music platform with a real server-side DSP pipeline: RMS energy, FFT spectral centroid, onset-autocorrelation tempo, over a single 8 kHz PCM pass. Cosine-similarity recommendations, Markov-graph prefetching. ReactFastLoad cut initial bundle ~29.6%.
+Browser audio-management extension with per-tab volume control, smooth gain transitions, and intelligent audio coordination. Handles both HTML5 media and Web Audio API contexts, supports native tab muting, and organizes tabs into Chrome Tab Groups across four audio scenes.
+
+> Chrome Web Store: **pending review**. Load unpacked for local use.
 
 <p>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg" />
-  <img src="https://img.shields.io/badge/Groq%20LLM-F54D27?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6&logo=typescript&logoColor=white?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF&logo=vite&logoColor=white?style=flat-square" alt="Vite" />
+  <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4&logo=googlechrome&logoColor=white?style=flat-square" alt="Chrome MV3" />
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79A879&labelColor=23272D)](https://github.com/Abhishe295/Musfiy)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/Hush)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>+ ProjectU — private real-time app for two</b></summary>
+<summary><b>+ ProjectU: private real-time app for two</b></summary>
 <br/>
 
-Real-time private web app: live Socket.IO chat, synchronized music with playback lock, mood board, shared links. Secured with cryptographic pairing codes and HTTP-only JWT. ReactFastLoad cut initial bundle ~49% (307 kB → 156 kB).
+Collaborative social platform featuring private pairing, real-time chat, synchronized music listening, mood sharing, and shared links. Built on Socket.IO with cryptographic pairing codes and HTTP-only JWT.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101&logo=socket.io&logoColor=white?style=flat-square" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Express-000000&logo=express&logoColor=white?style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248&logo=mongodb&logoColor=white?style=flat-square" alt="MongoDB" />
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79A879&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/ProjectU)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/ProjectU)
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Pixel-art desert landscape divider"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=470&height=50&lines=%F0%9F%93%8A+GitHub+Activity" alt="📊 GitHub Activity" />
-</p>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=abhishek-kumar-pundir&show_icons=true&theme=transparent&hide_border=true&title_color=79A879&icon_color=E4A16A&text_color=A6A9B0&bg_color=17191C&rank_icon=github"
-  height="160"
-  alt="GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kumar-pundir&layout=compact&theme=transparent&hide_border=true&title_color=79A879&text_color=A6A9B0&bg_color=17191C&langs_count=8"
-  height="160"
-  alt="Top Languages"
-/>
-
-</div>
-
-<!--
-  CONTRIBUTION SNAKE — add this workflow to enable:
-
-  File: .github/workflows/snake.yml
-  ───────────────────────────────
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  permissions: { contents: write }
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: abhishek-kumar-pundir
-            outputs: |
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Then run the workflow once from the Actions tab and uncomment below:
-  <img src="https://raw.githubusercontent.com/abhishek-kumar-pundir/abhishek-kumar-pundir/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
--->
-
-<img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A4%9D+Let%27s+Connect" alt="🤝 Let's Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79B47E&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A4%9D+Let%27s+Connect" alt="🤝 Let's Connect" />
 </p>
 
 <div align="center">
 
 <a href="https://github.com/abhishek-kumar-pundir">
-  <img src="./assets/icons/badge-github.svg" height="32" alt="GitHub"/>
+  <img src="./assets/icons/badge-github.svg" height="28" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://in.linkedin.com/in/abhishek-kumar-pundir">
-  <img src="./assets/icons/badge-linkedin.svg" height="32" alt="LinkedIn"/>
+  <img src="./assets/icons/badge-linkedin.svg" height="28" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://abhishek-tg.vercel.app/">
-  <img src="./assets/icons/badge-portfolio.svg" height="32" alt="Portfolio"/>
+  <img src="./assets/icons/badge-portfolio.svg" height="28" alt="Portfolio"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.npmjs.com/package/react-fastload">
-  <img src="./assets/icons/badge-npm.svg" height="32" alt="npm: react-fastload"/>
+  <img src="./assets/icons/badge-npm.svg" height="28" alt="npm: react-fastload"/>
 </a>
 
 </div>
