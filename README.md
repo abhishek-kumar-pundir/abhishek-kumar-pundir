@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=34&duration=2400&pause=5000&color=9294D6&center=true&vCenter=true&width=480&height=52&lines=Abhishek+Kumar+Pundir"
+      src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=38&duration=2400&repeat=false&color=79A879&center=true&vCenter=true&width=560&height=60&lines=Abhishek+Kumar+Pundir"
       alt="Abhishek Kumar Pundir"
     />
   </a>
@@ -42,16 +42,22 @@
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h3 align="center">👋 About Me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=320&height=50&lines=%F0%9F%91%8B+About+Me" alt="👋 About Me" />
+</p>
 
-- 🎓 CSE student passionate about learning and building things that matter.
-- 🚀 Always exploring new ideas and pushing beyond what I already know.
-- 🧠 Curious by nature, driven by challenges, and obsessed with continuous improvement.
-- 🌱 Focused on growing as an engineer and becoming better every day.
+<p align="center">
+🎓 CSE student passionate about learning and building things that matter.<br/>
+🚀 Always exploring new ideas and pushing beyond what I already know.<br/>
+🧠 Curious by nature, driven by challenges, and obsessed with continuous improvement.<br/>
+🌱 Focused on growing as an engineer and becoming better every day.
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=360&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="🛠️ Tech Stack" />
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
@@ -92,7 +98,9 @@
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9A%80+Featured+Projects" alt="🚀 Featured Projects" />
+</p>
 
 <table width="100%">
 <tr>
@@ -189,7 +197,9 @@ Real-time private web app: live Socket.IO chat, synchronized music with playback
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=470&height=50&lines=%F0%9F%93%8A+GitHub+Activity" alt="📊 GitHub Activity" />
+</p>
 
 <div align="center">
 
@@ -239,7 +249,9 @@ Real-time private web app: live Socket.IO chat, synchronized music with playback
 
 <img src="./assets/divider.svg" width="100%" alt="Desert Garden Divider"/>
 
-<h3 align="center">🤝 Let's Connect</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=1500&repeat=false&color=79A879&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A4%9D+Let%27s+Connect" alt="🤝 Let's Connect" />
+</p>
 
 <div align="center">
 
