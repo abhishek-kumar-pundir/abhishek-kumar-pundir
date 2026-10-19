@@ -160,7 +160,7 @@ Dataset audit: 10,748 sample directories. This is the size of the raw collection
 
 Browser audio-management extension with per-tab volume control, smooth gain transitions, and intelligent audio coordination. Handles both HTML5 media and Web Audio API contexts, supports native tab muting, and organizes tabs into Chrome Tab Groups across four audio scenes.
 
-> Chrome Web Store: **pending review**. Load unpacked for local use.
+> Chrome Web Store: **Published** — install directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/hush/dbbkabhnlodiikoebjiijgcfoeiakiop).
 
 <p>
   <img src="https://img.shields.io/badge/React%2019-61DAFB&logo=react&logoColor=black?style=flat-square" alt="React 19" />
@@ -169,6 +169,7 @@ Browser audio-management extension with per-tab volume control, smooth gain tran
   <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4&logo=googlechrome&logoColor=white?style=flat-square" alt="Chrome MV3" />
 </p>
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Published-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=23272D)](https://chromewebstore.google.com/detail/hush/dbbkabhnlodiikoebjiijgcfoeiakiop)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-17191C?style=flat-square&logo=github&logoColor=79B47E&labelColor=23272D)](https://github.com/abhishek-kumar-pundir/Hush)
 
 </td>
